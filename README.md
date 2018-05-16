@@ -1,1 +1,1 @@
-This is the GitHub Gardener project
+This is the GitHub Script project
